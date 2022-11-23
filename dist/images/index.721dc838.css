@@ -1,4 +1,4 @@
-body{background-color:#2c3e50!important}.home-container{max-width:1280px;margin:0 auto;padding:2rem;text-align:center}.home-container h1{color:#fff}.btn-start{min-width:280px;max-width:336px;height:50px;font-size:18px;font-weight:700;background-color:#1890ff;border-color:#1890ff;border-radius:2px;color:#fff;border-style:none;cursor:pointer}.btn-start:hover{background-color:#3d9ffc}.post{margin-top:20px}.post p{color:#bed7ee}.board-container{max-width:500px;margin:0 auto}.ant-page-header{padding:10px 24px!important}/*!
+body{background-color:#2c3e50!important}.home-container{max-width:1280px;margin:0 auto;padding:2rem;text-align:center}.home-container h1{color:#fff}.btn-start{min-width:336px;max-width:336px;height:40px;font-size:14.6px;background-color:#1890ff;border-color:#1890ff;border-radius:2px;color:#fff;border-style:none;cursor:pointer}.btn-start:hover{background-color:#3d9ffc}.post{margin-top:20px}article>.post>h2{color:#fff}.post p{color:#bed7ee}.board-container{max-width:500px;margin:0 auto}.ant-page-header{padding:10px 24px!important}/*!
  * 
  * antd v4.24.3
  * 
